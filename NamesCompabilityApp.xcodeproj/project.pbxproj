@@ -26,6 +26,7 @@
 		764E4BFC2BDFD92500C3F488 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		764E4BFE2BDFD92500C3F488 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		764E4C042BDFE00F00C3F488 /* ResultViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResultViewController.swift; sourceTree = "<group>"; };
+		7663043C2C1AF738000EF7EC /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -42,6 +43,7 @@
 		764E4BE42BDFD92300C3F488 = {
 			isa = PBXGroup;
 			children = (
+				7663043C2C1AF738000EF7EC /* .gitignore */,
 				764E4BEF2BDFD92300C3F488 /* NamesCompabilityApp */,
 				764E4BEE2BDFD92300C3F488 /* Products */,
 			);
